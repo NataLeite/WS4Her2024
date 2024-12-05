@@ -15,7 +15,7 @@ O Workshop for Her é um evento tradicional do Turing USP que tem como objetivo 
     - Busca sequencial
     - Busca binária
 
-Slides da aula: [parte 1](https://docs.google.com/presentation/d/1N0p5pOySKGGabFSNXvw4twFH8T1uXWy6/edit?usp=sharing&ouid=110086969742463916596&rtpof=true&sd=true)
+Slides da aula: [parte 1](https://docs.google.com/presentation/d/1hhYVHhnVSHmoGofK0LQGxiypeNFoMXMVjnDTee74ZhQ/edit?usp=drive_link)
 
 
 <img src="/img/evento.JPG">
